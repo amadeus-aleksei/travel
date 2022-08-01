@@ -1,0 +1,71 @@
+/*
+COLORS
+
+Primary: #eb2f64
+Primary light: #FF3366
+Primary dark: #BA265D
+
+--grey-light- 1: #faf9f9
+--grey-light- 2: #f4f2f2
+--grey-light- 3: #f0eeee
+--grey-light- 4: #ccc
+
+--grey-dark -1: #333
+--grey-dark -2: #777
+--grey-dark -3: #999
+
+*/
+
+:root {
+    --color-primary-0: #AA6C39;	// Main Primary color */
+    --color-primary-1: #FFD1AA;
+    --color-primary-2: #D49A6A;
+    --color-primary-3: #804515;
+    --color-primary-4: #552700;
+
+    --color-complement-0: #226666;	// Main Complement color */
+    --color-complement-1: #669999;
+    --color-complement-2: #407F7F;
+    --color-complement-3: #0D4D4D;
+    --color-complement-4: #003333;
+
+    --grey-light-1: #faf9f9;
+    --grey-light-2: #f4f2f2;
+    --grey-light-3: #f0eeee;
+    --grey-light-4: #ccc;
+
+    --grey-dark-1: #333;
+    --grey-dark-2: #777;
+    --grey-dark-3: #999;
+
+    --shadow-dark: 0 2rem 6rem rgba(0,0,0,.3); //horiz, vert, blur, color
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; // default 16px: to make 1rem = 10px --> 10px/16px = 62.5%
+}
+
+body {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    line-height: 1.6;
+    color: var(--grey-dark-1);
+    background-image: linear-gradient(to right bottom,
+        var(--color-primary-1), 
+        var(--color-primary-3));
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+}

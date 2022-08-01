@@ -1,0 +1,16 @@
+@import '../components/Header/Header';
+@import '../components/Sidebar/Sidebar';
+@import '../components/Hotelview/Hotelview';
+
+.container {
+    background-color: var(--grey-light-1);
+    max-width: 120rem;
+    margin: 8rem auto;
+    box-shadow: var(--shadow-dark);
+
+    min-height: 50rem;
+}
+
+.content {
+    display: flex;
+}

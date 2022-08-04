@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel/static/css/main.4799dd45.css",
-    "main.js": "/travel/static/js/main.95e922cc.js",
+    "main.css": "/travel/static/css/main.92e3e0a1.css",
+    "main.js": "/travel/static/js/main.90487ba1.js",
     "static/js/787.8a220983.chunk.js": "/travel/static/js/787.8a220983.chunk.js",
     "static/media/hotel-2.jpg": "/travel/static/media/hotel-2.174fcb5dab837179a677.jpg",
     "static/media/hotel-1.jpg": "/travel/static/media/hotel-1.b766cfcb8584612d97b2.jpg",
@@ -9,12 +9,12 @@
     "static/media/user.png": "/travel/static/media/user.9dc92b0a1003b149f6c9.png",
     "index.html": "/travel/index.html",
     "static/media/chevron-thin-right.svg": "/travel/static/media/chevron-thin-right.ae29a6a23ab074fa504b.svg",
-    "main.4799dd45.css.map": "/travel/static/css/main.4799dd45.css.map",
-    "main.95e922cc.js.map": "/travel/static/js/main.95e922cc.js.map",
+    "main.92e3e0a1.css.map": "/travel/static/css/main.92e3e0a1.css.map",
+    "main.90487ba1.js.map": "/travel/static/js/main.90487ba1.js.map",
     "787.8a220983.chunk.js.map": "/travel/static/js/787.8a220983.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4799dd45.css",
-    "static/js/main.95e922cc.js"
+    "static/css/main.92e3e0a1.css",
+    "static/js/main.90487ba1.js"
   ]
 }
